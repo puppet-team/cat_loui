@@ -1,9 +1,0 @@
-/.idea
-.idea/
-/**/target
-/**/.mvn
-/**/node_modules
-/**/*.iml
-/logs
-**/dist/**
-/node_modules/
